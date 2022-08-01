@@ -1,0 +1,83 @@
+
+/*--------------------chambres  -------------------*/
+
+/* buton open and close  */
+.open_close
+{
+
+  
+}
+
+/*-------------line 1 (border and position)  */
+.chambre1
+{  position: relative;
+   border:#fff 4px solid;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  
+}
+
+.chambre2
+{position: absolute;
+  top: 660px;
+  left: 500px;
+  
+}
+
+
+.chambre3
+{
+  position: absolute;
+  top: 660px;
+  left: 1000px;
+}
+/*-------------line 2 (border and position)  */
+.chambre4
+{
+  position: relative;
+  border:#fff 4px solid;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+.chambre5
+{
+  position: absolute;
+  top: 925px;
+  left: 500px;
+}
+.chambre6
+{
+  position: absolute;
+  top: 925px;
+  left: 1000px;
+}
+/*-------------line 3 (border and position)  */
+.chambre7
+{
+  position: relative;
+  border:#fff 4px solid;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+.chambre8
+{
+  position: absolute;
+  top: 1190px;
+  left: 500px;
+}
+.chambre9
+{
+  position: absolute;
+  top: 1190px;
+  left: 1000px;
+}
+/*-------------line 4 (border and position)  */
+.chambre10
+{
+ 
+ position: relative;
+ border:#fff 4px solid;
+ padding-bottom: 10px;
+ padding-left: 10px;
+}
+

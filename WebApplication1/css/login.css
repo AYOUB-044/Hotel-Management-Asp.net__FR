@@ -1,0 +1,66 @@
+/*********************************login*************************************/
+/* button ________________ */
+.tab4{
+  
+}
+.btns {
+    
+	text-align:left;
+	width:200px;
+	
+    background:#2098f5;
+	font-size:20px;
+	line-height:24px;
+	color:#fff;
+	display:inline-block;
+	padding:5px 23px 5px 23px;
+
+  text-decoration: none;
+	margin:0 200px 0 0px;
+}
+
+.btns:hover {
+	background:#131313;
+}
+
+/* label ________________ */
+.label {
+	position:relative;
+	overflow:hidden;
+	display: block;
+	padding-bottom:12px;
+}
+.label {
+	font-weight:normal;
+	display:block;
+	padding-bottom:5px;
+}
+
+#form {
+	margin: 0px 0 0px 0px;
+	width:620px;
+}
+/* textbox ________________ */
+.textbox {
+	background:#131313;
+	font: 14px Arial, Helvetica, sans-serif;
+	color:#b3afaf;
+	padding:7px 10px 10px 15px;
+	outline: medium none;
+	width: 355px;
+	height:17px;
+	float:left;
+}
+.textarea {
+	background:#131313;
+	font: 14px Arial, Helvetica, sans-serif;
+	color:#b3afaf;
+	height: 246px;
+	outline: medium none;
+	overflow: auto;
+	padding: 7px 0px 0px 10px;
+	width: 610px;
+	resize:none;
+	margin:0px 0 0 0;
+	float:left;
+}

@@ -1,0 +1,200 @@
+  /* Add text position */
+  #content_acc {
+    width:93%;
+    margin:0 auto;
+    padding-bottom:78px;
+  }
+  /* Add label design */
+  .label1{
+    font-size:36px;
+    line-height:45px;
+    color:#fff;
+    font-weight:normal;
+    letter-spacing:-1px;
+    
+    margin-left: 35%;
+   
+  }
+
+  .p_acc
+  {
+    Font-size:20px;
+    line-height:42px;
+   
+   display: inline;
+    
+    margin-left: 35%;
+  
+  }
+  
+
+  /* title design */
+.brand_color .titlepage h2 {
+  font-size:40px;
+    line-height:30px;
+    color:#fff;
+    font-weight:normal;
+    padding-top: 30PX;
+}
+
+
+.brand_color {
+
+     background-color: #2098f5;
+}
+
+/* position  div */
+
+.brand_color .titlepage {
+  
+margin-top: 20px;
+padding-bottom: 20px;
+text-align: center;
+}
+
+.brand_color
+{
+  margin:0 auto;
+}
+
+  /* _________icon__deconcter_______________ */
+  
+  .social-icons {
+    overflow:hidden;
+    text-align:right;
+    padding:17px 162px 13px 0
+  }
+  .social-icons span {
+    display:inline-block;
+    font-size:24px;
+    line-height:28px;
+    color:#fff;
+    margin:-1px 20px 0 0;
+    letter-spacing:-1px;
+  }
+  .social-icons a 
+  {
+    display:inline-block;
+    width:23px;
+    height:23px;
+    float :right; 
+  }
+  .icon-1 
+  {
+    background:url(../images/icon-1.png) 0 0 no-repeat;
+  }
+ 
+
+
+  /*------------ acceuil page ------------------------*/
+
+
+
+  /* textbox ________________ */
+.textbox {
+	background:#131313;
+	font: 14px Arial, Helvetica, sans-serif;
+	color:#b3afaf;
+	padding:7px 7px 7px 7px;
+	outline: medium none;
+	width: 100px;
+	height:4px;
+	float:left;
+}
+.textbox2 {
+	background:#131313;
+	font: 14px Arial, Helvetica, sans-serif;
+	color:#b3afaf;
+	padding:7px 10px 10px 15px;
+	outline: medium none;
+	width: 196px;
+	height:15px;
+	float:left;
+}
+
+
+
+  /* bUTTON ________________ */
+.btns {
+    
+	text-align:center;
+	width:140px;
+	
+    background:#2098f5;
+	font-size:20px;
+	line-height:24px;
+	color:#fff;
+	display:inline-block;
+	padding:5px 23px 5px 23px;
+
+  text-decoration: none;
+	margin:5px 10px 0 0px;
+}
+
+.btns:hover {
+	background:#131313;
+}
+
+/* label ________________ */
+.label {
+	position:relative;
+	overflow:hidden;
+	display: block;
+	padding-bottom:12px;
+}
+.label {
+	font-weight:normal;
+	display:block;
+	padding-bottom:5px;
+}
+
+/*position div 2 (ajouter )*/
+.div2{
+   margin-top :10px;
+
+}
+
+
+/* design grid view*/
+
+/*-------------commande-------------*/
+
+/*position div 3 (commande )*/
+.div3{
+  position: absolute;
+  width:400px;
+  top: 660px;
+  left: 500px;
+  border:#fff 4px solid;
+}
+/*----aficher commande */
+.afficher_comm
+{
+       margin-top :20px;
+}
+
+/*-------------employe-------------*/
+
+/*position div emp */
+.afficher_emp
+{
+      margin-top :10px;
+      margin-bottom:10px;
+}
+/*-------------reception-------------*/
+
+/*position div image */
+.image
+{
+   position: absolute;
+  width:200px;
+  top: 670px;
+  left: 400px;
+}
+.afficher_recep
+{
+      margin-top :10px;
+      margin-bottom:10px;
+}
+
+
